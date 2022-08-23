@@ -1,1 +1,1 @@
-asdfasdfasdfads
+qa!  and press <Enter> to abandon all changes and exit Vim
